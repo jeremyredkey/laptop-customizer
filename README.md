@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npx create-react-app [your-unique-name]`
 
-### `npm install slugify` For more information about [slugify](https://github.com/simov/slugify)
+### `npm install slugify` Documentation on [slugify](https://github.com/simov/slugify)
 
 ## Available Scripts
 
